@@ -8,5 +8,6 @@ public class YandexTest {
     void yandexTest() {
         Configuration.pageLoadStrategy = "eager";
         open("https://ya.ru");
+       //edit for ya.ru open("https://www.google.com/");
     }
 }
